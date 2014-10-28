@@ -15,9 +15,8 @@
 -->
 <Module>
 <script/>
-<ModulePrefs title="Yes/No/Maybe" height="100" width="550">
+<ModulePrefs title="Rally Hangout" height="100" width="550">
 <Require feature="dynamic-height"/>
-<Require feature="rpc"/>
 </ModulePrefs>
 <Content type="html">
 <![CDATA[
