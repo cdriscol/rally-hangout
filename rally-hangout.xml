@@ -22,7 +22,9 @@
 <Content type="html">
 <![CDATA[
 <!DOCTYPE html> 
+<body>
 <iframe style="width:100%;height:500px" src="https://rally1.rallydev.com/#/9098230730d/custom/14019749720?expandApp=21011789869"></iframe>
+</body>
 ]]>
 </Content>
 </Module>
